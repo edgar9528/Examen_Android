@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="bt_iniciar">Iniciar</string>
+    <string name="creaCuenta">Crear una cuenta</string>
+    <string name="bt_registrar">Registrarse</string>
+    <string name="bt_salir">Salir</string>
+    <string name="bt_misColaboradores">Mis colaboradores</string>
+    <string name="bt_agregarColaborador">Agregar un colaborador</string>
+    <string name="bt_agregar">Agregar</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="msg_rellena">Rellena todos los campos</string>
+    <string name="msg_usuIncorrecto">Usuario o contraseña incorrectos</string>
+    <string name="msg_usuCreado">Usuario registrado</string>
+    <string name="msg_usuError">Error al registrar usuario</string>
+    <string name="msg_noExiste">El archivo a descomprimir no existe</string>
+    <string name="msg_colaboradorAgre">Colaborador agregado</string>
+    <string name="bt_respaldar">Respaldar información</string>
+    <string name="msg_infoAct">Información actualizada correctamente</string>
+    <string name="msg_errorSubir">Error al subir información</string>
+    <string name="msg_permisos">La aplicacion necesita permisos de almacenamiento</string>
+    <string name="msg_cargando">Cargando...</string>
+</resources>
